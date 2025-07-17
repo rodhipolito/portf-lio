@@ -30,12 +30,4 @@ CSS3 – Responsive and modern styling
  Feel free to connect with me on:
 
  LinkedIn
- GitHub
- 🧪 How to Run Locally
- Clone the repository:
- git clone https://github.com/rodhipolito/portifolio-master.git
-
- 2.Navigate to the folder:
- cd portifolio-master
-
- 3. Open the index.html file in your browser.
+https://www.linkedin.com/in/rodrigo-hipolito-silva/
